@@ -1,6 +1,6 @@
 {
   "name": "sky-app-function-8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Một component Stepper để điều hướng qua các bước trong quy trình",
   "main": "index.js",
   "scripts": {
